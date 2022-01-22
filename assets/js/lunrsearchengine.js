@@ -1,57 +1,52 @@
 
 var documents = [{
     "id": 0,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/404.html",
+    "url": "https://joacosaralegui.ar/404.html",
     "title": "404",
     "body": "404 Page not found!Please use the search bar from the bottom left or visit our homepage! "
     }, {
     "id": 1,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/about",
+    "url": "https://joacosaralegui.ar/about",
     "title": "Memoirs, a free minimalist Jekyll blogging theme with modern design",
     "body": "This website is a demonstration to see Memoirs Jekyll theme in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.  Get Memoirs for Jekyll → "
     }, {
     "id": 2,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/contacto",
+    "url": "https://joacosaralegui.ar/contacto",
     "title": "Contacto",
-    "body": "                                                                                                                                                                                    Joaco Saralegui:         Las descripciones de nosotros mismos siempre son mentira.                "
+    "body": "                                           Joaco Saralegui:         Acá empieza la primera mentira. Soy Ingeniero en Sistemas, hincha de Racing, amateur del arte y mochilero. Siempre estoy interesado en hacer amigos así que si algo de esto te gusto no dudes en escribirme.                                                                                                                                                                 "
     }, {
     "id": 3,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/categories",
+    "url": "https://joacosaralegui.ar/categories",
     "title": "Categories",
     "body": ""
     }, {
     "id": 4,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/contact",
+    "url": "https://joacosaralegui.ar/contact",
     "title": "Contact",
     "body": "  Please send your message to Joaco. We will reply as soon as possible!   "
     }, {
     "id": 5,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/",
+    "url": "https://joacosaralegui.ar/",
     "title": "Home",
-    "body": "                                                                                               Placeholder                         1 2 3 4 5                      :       Placeholder:                                                                                     Joaco Saralegui                 21 Jan 2022                                                                                                                           Placeholder                         1 2 3 4 5                      :       Placeholder:                                                                                     Joaco Saralegui                 21 Jan 2022                                "
+    "body": "                                                                                               Placeholder              :       Placeholder:                                                                     Escritos                            Recomendaciones                                                                                   Peliculas                                              21 Jan 2022        &lt;/span&gt;                        "
     }, {
     "id": 6,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/escritos/",
+    "url": "https://joacosaralegui.ar/escritos/",
     "title": "Escritos",
     "body": ""
     }, {
     "id": 7,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/recomendaciones/",
+    "url": "https://joacosaralegui.ar/recomendaciones/",
     "title": "Recomendaciones",
     "body": ""
     }, {
     "id": 8,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/robots.txt",
+    "url": "https://joacosaralegui.ar/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
     "id": 9,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/first/",
-    "title": "Placeholder",
-    "body": "2022/01/21 - Placeholder "
-    }, {
-    "id": 10,
-    "url": "https://joacosaralegui.arhttps://joacosaralegui.ar/first-copy/",
+    "url": "https://joacosaralegui.ar/first/",
     "title": "Placeholder",
     "body": "2022/01/21 - Placeholder "
     }];

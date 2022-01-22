@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joaco</title>
-    <description>&quot;Arte para no sentirnos solos&quot;</description>
-    <link>https://joacosaralegui.arhttps://joacosaralegui.ar/</link>
-    <atom:link href="https://joacosaralegui.arhttps://joacosaralegui.ar/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Jan 2022 13:24:56 +0100</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 13:24:56 +0100</lastBuildDate>
+    <description>Un lugar para que las cosas no se me olviden</description>
+    <link>https://joacosaralegui.ar/</link>
+    <atom:link href="https://joacosaralegui.ar/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Jan 2022 15:53:16 +0100</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 15:53:16 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -14,23 +14,10 @@
         <description>&lt;p&gt;Placeholder&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Jan 2022 00:00:00 +0100</pubDate>
-        <link>https://joacosaralegui.arhttps://joacosaralegui.ar/first/</link>
-        <guid isPermaLink="true">https://joacosaralegui.arhttps://joacosaralegui.ar/first/</guid>
+        <link>https://joacosaralegui.ar/first/</link>
+        <guid isPermaLink="true">https://joacosaralegui.ar/first/</guid>
         
-        
-        <category>Escritos</category>
-        
-        <category>Recomendaciones</category>
-        
-      </item>
-    
-      <item>
-        <title>Placeholder</title>
-        <description>&lt;p&gt;Placeholder&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Jan 2022 00:00:00 +0100</pubDate>
-        <link>https://joacosaralegui.arhttps://joacosaralegui.ar/first-copy/</link>
-        <guid isPermaLink="true">https://joacosaralegui.arhttps://joacosaralegui.ar/first-copy/</guid>
+        <category>Peliculas</category>
         
         
         <category>Escritos</category>

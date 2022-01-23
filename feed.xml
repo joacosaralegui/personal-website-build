@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joaco</title>
-    <description>Un lugar para que las cosas no se me olviden</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Jan 2022 19:00:46 +0100</pubDate>
-    <lastBuildDate>Sun, 23 Jan 2022 19:00:46 +0100</lastBuildDate>
+    <description>Arme este lugar para poner todas cosas que me gustan</description>
+    <link>https://joacosaralegui.ar/</link>
+    <atom:link href="https://joacosaralegui.ar/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 23 Jan 2022 19:19:35 +0100</pubDate>
+    <lastBuildDate>Sun, 23 Jan 2022 19:19:35 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;p&gt;More text&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Jan 2022 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/first/</link>
-        <guid isPermaLink="true">http://localhost:4000/first/</guid>
+        <link>https://joacosaralegui.ar/first/</link>
+        <guid isPermaLink="true">https://joacosaralegui.ar/first/</guid>
         
         <category>Peliculas</category>
         

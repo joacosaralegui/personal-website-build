@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "https://joacosaralegui.ar/",
     "title": "Home",
-    "body": "                                                                                               Placeholder              :       Placeholder:                                                                     Escritos                            Recomendaciones                                                                                   Peliculas                                              21 Jan 2022        &lt;/span&gt;                        "
+    "body": "                                                                                               Placeholder              :       Placeholder text for my first postMore text:                                                                     Escritos                            Recomendaciones                                                                                   Peliculas                                              21 Jan 2022        &lt;/span&gt;                        "
     }, {
     "id": 6,
     "url": "https://joacosaralegui.ar/escritos/",
@@ -48,7 +48,7 @@ var documents = [{
     "id": 9,
     "url": "https://joacosaralegui.ar/first/",
     "title": "Placeholder",
-    "body": "2022/01/21 - Placeholder "
+    "body": "2022/01/21 - Placeholder text for my first post More text "
     }];
 
 var idx = lunr(function () {
